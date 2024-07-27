@@ -11,6 +11,3 @@
 # assets get a long cache instead of no cache
 /assets/*
   Cache-Control: public, max-age=31536000, s-maxage=31536000, immutable
-
-/*js
-  Content-Type: application/javascript
